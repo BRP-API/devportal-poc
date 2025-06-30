@@ -1,5 +1,5 @@
 site:
-  title: BRP voor Developers
+  title: RvIG voor Developers
   start_page: brp-api::/index.adoc
 content:
   sources:
