@@ -1,6 +1,6 @@
 site:
   title: RvIG voor Developers
-  start_page: brp-api::/index.adoc
+  start_page: brp-api::/landing.adoc
 content:
   sources:
   - url: https://github.com/brp-api/brp-api.github.io.git
@@ -24,6 +24,7 @@ ui:
     contents: |
       static_files:
       - .nojekyll
+      - redoc-custom.css
   - path: .nojekyll
 antora:
   extensions:
