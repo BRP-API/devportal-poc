@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# Except these files
+!.gitignore
+!.github/workflows/main.yml
+
+# Antora
+!antora-playbook.yml
+!ui.yml
+
+# Package files
+!package.json
+!package-lock.json
+
+# Documentation
+!README.md
