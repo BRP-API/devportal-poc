@@ -4,7 +4,7 @@ Deze documentatie-site is een proof-of-concept (POC) voor een ontwikkelaarsporta
 
 ## Overzicht
 
-Dit project bundelt documentatie uit meerdere repositories tot één centrale site. A
+Dit project bundelt documentatie uit meerdere repositories tot één centrale site.
 
 ## Belangrijkste features
 - Multi-repository documentatie met Antora
