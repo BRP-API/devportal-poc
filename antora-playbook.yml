@@ -9,12 +9,8 @@ content:
     branches: antora
   - url: https://github.com/brp-api/haal-centraal-brp-bewoning.git
     branches: antora
-  # - url: ../brp-api.github.io
-  #   branches: antora
-  # - url: ../../Haal-Centraal-BRP-bevragen
-  #   branches: antora
-  # - url: ../../Haal-Centraal-BRP-bewoning
-  #   branches: antora
+  - url: https://github.com/brp-api/haal-centraal-brp-historie-bevragen.git
+    branches: antora
 ui:
   bundle:
     url: https://github.com/brp-api/antora-ui-bundle/releases/download/v1.0.0/ui-bundle.zip
