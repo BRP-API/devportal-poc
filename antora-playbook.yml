@@ -25,3 +25,5 @@ ui:
 antora:
   extensions:
   - '@antora/lunr-extension'
+urls:
+  html_extension_style: indexify
