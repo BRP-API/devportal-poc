@@ -20,7 +20,6 @@ ui:
     contents: |
       static_files:
       - .nojekyll
-      - redoc-custom.css
   - path: .nojekyll
 antora:
   extensions:
