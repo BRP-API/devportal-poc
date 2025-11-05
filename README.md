@@ -2,6 +2,12 @@
 
 Deze documentatie-site is een proof-of-concept (POC) voor een ontwikkelaarsportaal gebaseerd op [Antora](https://antora.org/).
 
+> [!NOTE]  
+> ## Publiceren op Developer Portal
+> 1. Commit en push content aanpassingen
+> 2. Ga naar [Publish to Github Pages](https://github.com/BRP-API/devportal-poc/actions/workflows/main.yml)
+> 3. Klik op Run Workflow
+
 ## Overzicht
 
 Dit project bundelt documentatie uit meerdere repositories tot één centrale site.
