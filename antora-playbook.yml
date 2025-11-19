@@ -26,5 +26,9 @@ ui:
 antora:
   extensions:
   - '@antora/lunr-extension'
+asciidoc:
+  attributes:
+    stem: latexmath
+    page-stem: latexmath
 urls:
   html_extension_style: indexify
