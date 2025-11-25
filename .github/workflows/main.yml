@@ -1,5 +1,8 @@
 name: Publish to GitHub Pages
 on:
+  schedule:
+    - cron: '0 12 * * *'  # Runs at 12:00 UTC (13:00 UTC+1)
+    - cron: '0 18 * * *'  # Runs at 18:00 UTC (19:00 UTC+1)
   push:
     branches: [main]
   # Allows you to run this workflow manually from the Actions tab
