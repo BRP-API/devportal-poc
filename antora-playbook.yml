@@ -13,6 +13,10 @@ content:
     branches: antora
   - url: https://github.com/rvig-publicaties/LO-BRP.git
     branches: main
+  - url: https://github.com/rvig-publicaties/LO-BRPk.git
+    branches: main
+  - url: https://github.com/rvig-publicaties/LO-PBK.git
+    branches: main
 ui:
   bundle:
     url: https://github.com/brp-api/antora-ui-bundle/releases/download/v1.0.0/ui-bundle.zip
