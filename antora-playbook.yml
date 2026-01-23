@@ -30,6 +30,7 @@ ui:
 antora:
   extensions:
   - '@antora/lunr-extension'
+  - '@sntke/antora-mermaid-extension'
 asciidoc:
   attributes:
     stem: latexmath
