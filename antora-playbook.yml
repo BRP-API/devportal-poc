@@ -3,13 +3,13 @@ site:
   start_page: brp-api::/landing.adoc
 content:
   sources:
-  - url: https://github.com/brp-api/brp-api.github.io.git
-    branches: antora
   - url: https://github.com/brp-api/haal-centraal-brp-bevragen.git
     branches: antora
   - url: https://github.com/brp-api/haal-centraal-brp-bewoning.git
     branches: antora
   - url: https://github.com/brp-api/haal-centraal-brp-historie-bevragen.git
+    branches: antora
+  - url: https://github.com/brp-api/brp-api.github.io.git
     branches: antora
   - url: https://github.com/rvig-publicaties/LO-BRP.git
     branches: main
