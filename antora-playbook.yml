@@ -11,6 +11,8 @@ content:
     branches: antora
   - url: https://github.com/brp-api/brp-api.github.io.git
     branches: antora
+  - url: https://github.com/rvig-brp/BRP-Berichten-API.git
+    branches: antora
   - url: https://github.com/rvig-publicaties/LO-BRP.git
     branches: main
   - url: https://github.com/rvig-publicaties/LO-BRPk.git
